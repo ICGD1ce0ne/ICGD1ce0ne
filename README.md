@@ -35,14 +35,6 @@
 
 ## 💡 Навыки и технологии
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
 - Android SDK, Kotlin, Java, XML
 - Python: FastAPI, Flask, Requests, BeautifulSoup, aiogram, python-telegram-bot
 - Git, SQL (PostgreSQL, MySQL, SQLite), MongoDB, Docker
@@ -63,15 +55,8 @@
 
 <div align="center">
   <a href="https://t.me/ICGD1ce0ne" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="mailto:I1ce0neyandex.ru"><img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/1ce0ne"><img src="https://img.shields.io/badge/Старый GitHub-6e5494?style=for-the-badge&logo=github" /></a>
 </div>
-
----
-
-## ⚡ Миссия
-
-**Создаю продукты, которыми хочется пользоваться и которыми можно гордиться!**
 
 ---
 
