@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 О Себе
+## О Себе
 **Android-разработчик**, TeamLead и FullStack-разработчик.  
 Более 2-х лет в IT, участвую в хакатонах, пилю коммерческие и социальные проекты.  
 Основной фокус — надежность, современный стиль и максимальная технологичность.  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🏆 Ключевые проекты
+## Ключевые проекты
 
 | Название         | Описание                                   | СМИ/Ссылки                                          |
 |------------------|--------------------------------------------|-----------------------------------------------------|
@@ -26,14 +26,14 @@
 
 ---
 
-## 📰 СМИ о моих проектах
+## СМИ о моих проектах
 
 - Forbes, Ведомости, Хабр — селекция лучших ИТ-стартапов 2025
 - Telegram: [Центральный университет](https://t.me/t_central_university/2303), [1337](https://t.me/media1337/22161?single), [Провод](https://t.me/provod/15474?single), [Эксплойт](https://t.me/exploitex/28107?single)
 
 ---
 
-## 💡 Навыки и технологии
+## Навыки и технологии
 
 - Android SDK, Kotlin, Java, XML
 - Python: FastAPI, Flask, Requests, BeautifulSoup, aiogram, python-telegram-bot
@@ -44,14 +44,14 @@
 
 ---
 
-## 📈 Статистика GitHub
+## Статистика GitHub
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ICGD1ce0ne&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ICGD1ce0ne&layout=compact&theme=tokyonight)
 
 ---
 
-## 📬 Контакты
+## Контакты
 
 <div align="center">
   <a href="https://t.me/ICGD1ce0ne" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" /></a>
