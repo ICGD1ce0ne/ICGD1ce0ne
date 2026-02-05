@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="https://github.com/1ce0ne.png" width="100" alt="Profile pic" />
-  <h1>Ivan Popov — Android & FullStack Developer</h1>
-  <p><b>Создаю надёжные и современные решения в мире мобильной и backend/frontend разработке</b></p>
+  <h1>Ivan Popov — Android (Java) & Backend Developer</h1>
+  <p><b>Создаю надёжные и современные решения в мире мобильной и backend разработке</b></p>
 </div>
 
 ---
