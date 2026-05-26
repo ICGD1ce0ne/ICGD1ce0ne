@@ -128,9 +128,24 @@ Backend и Android-платформа для локальной аренды в�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ICGD1ce0ne&show_icons=true&theme=tokyonight"/>
+<!-- Основная статистика -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ICGD1ce0ne&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICGD1ce0ne&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICGD1ce0ne&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<!-- Альтернативная статистика: Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ICGD1ce0ne&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<!-- Альтернативная статистика: Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ICGD1ce0ne&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true"/>
 
 </div>
 
