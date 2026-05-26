@@ -1,64 +1,150 @@
-<!-- GitHub Profile README -->
+<!-- ========================================= -->
+<!--              GitHub README               -->
+<!-- ========================================= -->
 
 <div align="center">
-  <img src="https://github.com/1ce0ne.png" width="100" alt="Profile pic" />
-  <h1>Ivan Popov — Android (Java) & Backend Developer</h1>
-  <p><b>Создаю надёжные и современные решения в мире мобильной и backend разработке</b></p>
+
+# Иван Попов
+### Python Backend Developer | FastAPI & Infrastructure
+
+Backend-разработчик с опытом создания API, автоматизации, деплоя и MVP-продуктов.
+
+Сейчас занимаюсь разработкой backend-инфраструктуры и мобильной интеграции для платформы **F-Rent** — сервиса локальной P2P аренды вещей.
+
+---
+
+<p align="center">
+  <a href="https://github.com/ICGD1ce0ne">
+    <img src="https://img.shields.io/github/followers/ICGD1ce0ne?label=GitHub&style=for-the-badge">
+  </a>
+
+  <a href="https://t.me/ICGD1ce0ne">
+    <img src="https://img.shields.io/badge/Telegram-Связаться-blue?style=for-the-badge&logo=telegram">
+  </a>
+</p>
+
 </div>
 
 ---
 
-## О Себе
-**Android-разработчик**, TeamLead и Backend-разработчик.  
-Более 2-х лет в IT, участвую в хакатонах, пилю коммерческие и социальные проекты.  
-Основной фокус — надежность, современный стиль и максимальная технологичность.  
-Люблю нестандартные задачи и командную работу.
+# О себе
+
+- Backend-разработчик с фокусом на Python ecosystem
+- Разрабатываю REST API и backend-сервисы
+- Есть опыт деплоя и поддержки приложений на Linux
+- Работаю с Docker, PostgreSQL и FastAPI
+- Создаю MVP-продукты, автоматизацию и внутренние сервисы
+- Интересуюсь backend-архитектурой, AI-интеграциями и высоконагруженными системами
+- Дополнительно занимаюсь Android-разработкой на Kotlin/Java
 
 ---
 
-## Ключевые проекты
+# Технологии и стек
 
-| Название         | Описание                                   | СМИ/Ссылки                                          |
-|------------------|--------------------------------------------|-----------------------------------------------------|
-| **F-Rent**       | Платформа People-to-People аренды вещей. Победитель ИТ-смены в Артеке, отмечен Forbes, Ведомости, Хабр. | [Forbes](https://www.forbes.ru/novosti-kompaniy/546492-central-nyj-universitet-i-t-bank-podveli-itogi-profil-noj-smeny-v-arteke) & [Habr](https://habr.com/ru/news/949830/) & [Ведомости](https://www.vedomosti.ru/press_releases/2025/09/24/tsentralnii-universitet-i-t-bank-podveli-itogi-profilnoi-smeni-po-sozdaniyu-it-produktov-v-arteke) |
-| **AkkuBatt-Rent**| B2C-платформа для аренды вещей (релиз осенью 2025, детализация по запросу) | — |
+## Backend
 
-
----
-
-## СМИ о моих проектах
-
-- Forbes, Ведомости, Хабр — селекция лучших ИТ-стартапов 2025
-- Telegram: [Центральный университет](https://t.me/t_central_university/2303), [1337](https://t.me/media1337/22161?single), [Провод](https://t.me/provod/15474?single), [Эксплойт](https://t.me/exploitex/28107?single)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
 
 ---
 
-## Навыки и технологии
+## Базы данных
 
-- Android SDK, Kotlin, Java, XML
-- Python: FastAPI, Flask, Requests, BeautifulSoup, aiogram, python-telegram-bot
-- Git, SQL (PostgreSQL, MySQL, SQLite), MongoDB, Docker
-- OpenCV, Tesseract OCR, MediaPipe
-- HTML, CSS, JS (основы фронта)
-- Figma, VSCode, PyCharm, DataGrip, Android Studio
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-## Статистика GitHub
+## Инфраструктура
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ICGD1ce0ne&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ICGD1ce0ne&layout=compact&theme=tokyonight)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 
 ---
 
-## Контакты
+## Дополнительно
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+---
+
+# Ключевые проекты
+
+## F-Rent — P2P платформа аренды вещей
+
+Backend и Android-платформа для локальной аренды вещей между пользователями.
+
+### Чем занимаюсь в проекте
+
+- Проектирование backend-архитектуры
+- Разработка REST API
+- Проектирование структуры БД
+- Docker deployment
+- Интеграция Android-клиента
+- Поддержка Linux-инфраструктуры
+
+### Стек
+
+`Python` `FastAPI` `PostgreSQL` `Docker` `Linux` `Kotlin`
+
+### Упоминания в СМИ
+
+- Forbes
+- Хабр
+- Ведомости
+
+🌐 https://f-rent.ru
+
+---
+
+## Backend и Automation проекты
+
+- Telegram-боты и системы автоматизации
+- Backend API и внутренние сервисы
+- Парсинг и аналитические инструменты
+- Приложения для автоматизации генерации QR-кодов
+- MVP и pet-проекты
+
+---
+
+# Сейчас изучаю
+
+- Redis
+- Celery
+- SQLAlchemy
+- WebSocket
+- High-load backend systems
+- Масштабируемую backend-архитектуру
+
+---
+
+# GitHub статистика
 
 <div align="center">
-  <a href="https://t.me/ICGD1ce0ne" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://github.com/1ce0ne"><img src="https://img.shields.io/badge/Старый GitHub-6e5494?style=for-the-badge&logo=github" /></a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ICGD1ce0ne&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICGD1ce0ne&layout=compact&theme=tokyonight"/>
+
 </div>
 
 ---
 
-> “Лучшие решения рождаются там, где сочетаются бизнес, творчество и реальные задачи.”
+# Контакты
 
+- Telegram: https://t.me/ICGD1ce0ne
+- GitHub: https://github.com/ICGD1ce0ne
+
+---
+
+<div align="center">
+
+### Backend • Infrastructure • Automation • Product Development
+
+</div>
